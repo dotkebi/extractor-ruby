@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sequence: MyString
+  first: MyString
+  second: MyString
+  third: MyString
+  fourth: MyString
+  fifth: MyString
+  sixth: MyString
+  bonus: 1
+
+two:
+  sequence: MyString
+  first: MyString
+  second: MyString
+  third: MyString
+  fourth: MyString
+  fifth: MyString
+  sixth: MyString
+  bonus: 1
